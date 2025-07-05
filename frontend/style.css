@@ -1,0 +1,27 @@
+body {
+    background-color: #f7f9fc;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+h1, h2, h3 {
+    color: #1c3f60;
+}
+
+.streamlit-expanderHeader {
+    font-weight: bold;
+    color: #333;
+}
+
+div.stButton > button {
+    background-color: #005f73;
+    color: white;
+    border-radius: 6px;
+    padding: 0.5em 1em;
+}
+
+div.stDownloadButton > button {
+    background-color: #0a9396;
+    color: white;
+    border-radius: 6px;
+    padding: 0.5em 1em;
+}

@@ -1,0 +1,17 @@
+{
+  "rs1234": {
+    "AA": "Increase folate intake",
+    "AG": "Normal folate intake",
+    "GG": "Slightly lower folate absorption"
+  },
+  "rs4567": {
+    "TT": "Increase vitamin D intake",
+    "CT": "Moderate vitamin D intake",
+    "CC": "Normal vitamin D metabolism"
+  },
+  "rs7890": {
+    "CC": "Reduce saturated fat intake",
+    "CG": "Balanced fat metabolism",
+    "GG": "Favorable fat metabolism"
+  }
+}
